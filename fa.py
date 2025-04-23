@@ -1,4 +1,4 @@
-for i in range (1, 20+1):
+for i in range (1, 21):
     if i % 3 ==0:
         print('buzz')
     else:
